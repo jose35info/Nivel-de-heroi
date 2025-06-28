@@ -40,6 +40,4 @@ Classificar um herói com base na sua quantidade de experiência (XP) e exibir s
 
 ## 🚀 Como executar
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+1. Clone este repositório: git clone https://github.com/jose35info/Nivel-de-heroi
